@@ -1,2 +1,2 @@
-# wled-calculator.github.io
-LED power wires and fuse calculator
+# istarlights-calculator.github.io
+LED Power Wires and Fuse Calculator
